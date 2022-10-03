@@ -1,2 +1,2 @@
-# PILLIGUAMAYRA
-C1
+# GestionSoftware
+Para la asignatua de Gestion de Software
